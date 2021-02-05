@@ -1,0 +1,8 @@
+/target
+Cargo.lock
+
+/tests/Cargo.lock
+/tests/target
+/tests/.env
+
+**/.idea/**
